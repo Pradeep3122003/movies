@@ -4,4 +4,4 @@ dotenv
 flask_SQLAlchemy
 psycopg2-binary
 uuid
-bcrypts
+bcrypt
