@@ -1,0 +1,7 @@
+flask
+flask_cors
+dotenv
+flask_SQLAlchemy
+psycopg2-binary
+uuid
+bcrypts
